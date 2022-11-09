@@ -1,0 +1,9 @@
+The currency is called PotCoin
+1. If the address has completed less than ten transactions with the currency, make them pay a flat 1 PotCoin fee as tax to a constuctor specified address.
+ - This PotCoin is used to fund step 2
+2. If your address has more than 100 PotCoin, you can send it to the constructor specified address and recieve a ticket in the form of a unique NFT on the PotCoin blockchain.
+ - This ticket allows the owner to attend parties that will be occasionally thrown in major cities accross the world.
+ - Brownies will be served.
+3. Tax on each transaction is proportional to the last digit of the previous block hash.
+ - *1 to *10 muliplier on standard gas rate dependent on last digit (0-9).
+ - When the last digit is high, small transactions can go through quickly instead of taking a long time because transactions will occur less frequently so there will be more space in each block.
